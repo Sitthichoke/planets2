@@ -2,4 +2,6 @@ H3K4me1
  
 and H3K4me3 is associated with highly expressed genes (Zhang et al. 2009). H3K4me2 and H3K4me3 are independent of DNA methylation, whereas H3K4me1 is correlated with CG methylation. In addition, H3K9ac is correlated with gene expression levels in A. thaliana (Zhou et al. 2010). However, the relationship between H3K9ac and H3K4me3 euchromatic marks is unknown, and much less is known about the role of these marks in expression changes between species.
 
-Modified
+Modified1
+
+Modifies4
